@@ -1,0 +1,59 @@
+header{
+  color: white;
+  font-family: fantasy;
+  font-size: 30px;
+  text-align: center;
+  background-color: black;
+}
+
+h1{
+  color: white;
+}
+
+.h2D{
+  color: black;
+  font-size: 16px;
+  font-family: cursive;
+  border: 8px groove #EC5011;
+  max-width: 410px;
+  margin-top: -15px;
+  margin-left: 700px;
+}
+
+.h2N{
+  color: white;
+  font-size: 16px;
+  font-family: cursive;
+  border: 8px ridge #6B6565;
+  max-width: 410px;
+  margin-top: -15px;
+  margin-left: 700px;
+}
+
+.divX{
+  text-align: center;
+  border: solid black 10px;
+  border-radius: 10px;
+  background-image: url(Fundo-nave.png);
+}
+.divY{
+  border: solid black 10px;
+  border-radius: 10px;
+  text-align: center;
+  background-image: url(FundoBasket.jpg);
+
+}
+
+
+.VideoD{
+  max-width: 400px;
+  margin-bottom: 20px;
+  border: 8px groove #EC5011;
+
+}
+.VideoN{
+  max-width: 400px;
+  margin-bottom: 20px;
+  border: 8px ridge #6B6565;
+
+}
